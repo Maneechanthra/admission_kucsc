@@ -3,7 +3,7 @@
 	$servername = "localhost";
 	$username = "root";
 	$password = "oof123456";
-	$dbname = "db_project";
+	$dbname = "admission_kucsc";
 
 	// Create connection
 	$mysqli = new mysqli($servername, $username, $password, $dbname);
