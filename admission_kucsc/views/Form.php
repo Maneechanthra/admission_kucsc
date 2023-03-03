@@ -1,6 +1,6 @@
 
 <?php
-      $con= mysqli_connect("localhost","root","oof123456","db_project") or die("Error: " . mysqli_error($con));
+      $con= mysqli_connect("localhost","root","nice2002","admission_kucsc") or die("Error: " . mysqli_error($con));
       mysqli_query($con, "SET NAMES 'utf8' ");
       error_reporting( error_reporting());
       date_default_timezone_set('Asia/Bangkok');
