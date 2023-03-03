@@ -2,7 +2,7 @@
 	//Connect database
 	$servername = "localhost";
 	$username = "root";
-	$password = "oof123456";
+	$password = "nice2002";
 	$dbname = "admission_kucsc";
 
 	// Create connection
